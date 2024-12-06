@@ -1,10 +1,3 @@
-
-For this project my group(Team Coders) will implement a simplified version of an employee time reporting system.
-The EmployeeTimeReportingManager should allow the user to view the all employees in the system, add new employees to the dashboard,
-view the information of a particular employee, search the list of employees, etc. For this project "Team Coders" will define all the classes needed. 
-We must work to develop a proposal report for the project and finally, a final project report by the end of the semester. 
-The main projects document identifies what each of the documents must contain.
-
 The "Employee - Reporting - System" will be applying concepts covered in COSC 112 and COSC 113 courses. The requirements of the code and the concepts are mentioned below.
 	•	Must implement a class-based object.
 	•	Must implement concepts covered by object-oriented paradigms like inheritance and polymorphism.
